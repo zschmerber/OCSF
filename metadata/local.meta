@@ -1,0 +1,23 @@
+[app/ui]
+version = 9.1.2
+modtime = 1705688294.860557000
+
+[app/launcher]
+version = 9.1.2
+modtime = 1705688294.862116000
+
+[]
+access = read : [ * ], write : [ admin, power ]
+export = system
+version = 9.1.2
+modtime = 1705704336.423702000
+
+[props/ocsf_json2]
+owner = admin
+version = 9.1.2
+modtime = 1705796813.349294000
+
+[props/ocsf_json3]
+owner = admin
+version = 9.1.2
+modtime = 1705797444.245995000
